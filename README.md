@@ -4,20 +4,16 @@
 **parkgyul/parkgyul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 💻 DEV's log 💻
+## 💻 DEV's log & Contact 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://cse-gr.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-
-</div><br>
-
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
     <a href="mailto:cofla30105@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
+
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
