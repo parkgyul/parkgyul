@@ -17,8 +17,8 @@
 |:---|:---|
 | Beamworks 인턴 - 백엔드  | 2025.01 ~ 진행 중 |
 | iM Bank (구. 대구은행) - 미래내일 일경험 iM뱅크 프로젝트 | 2024.09 ~ 2024.11 |
-| Silicon Valley Software Technology & AI Program, USA |  2024.07 ~ 2024.08 |
 | 대구를 빛내는 SW 해커톤 - 최우수상 수상 (경북대학교 IT 컴퓨터학부) | 2024.11 |
+| Silicon Valley Software Technology & AI Program, USA |  2024.07 ~ 2024.08 |
 | 한화오션 - 산학협력 프로젝트 | 2024.03 ~ 2024.06 |
 | 멋쟁이 사자처럼 - 백엔드 트랙 활동 | 2024.03 ~ 2024.12 |
 | University of Wisconsin-Whitewater, USA - 교환학생 | 2023.08 ~ 2023.12 |
