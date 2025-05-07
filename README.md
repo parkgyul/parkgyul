@@ -23,7 +23,8 @@
 | 멋쟁이 사자처럼 - 백엔드 트랙 활동 | 2024.03 ~ 2024.12 |
 | University of Wisconsin-Whitewater, USA - 교환학생 | 2023.08 ~ 2023.12 |
 
-    
+ [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=haha0888)](https://solved.ac/haha0888)
+
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
@@ -59,8 +60,8 @@
     <img src="https://img.shields.io/badge/docker-4479A1?style=for-the-badge&logo=docker&logoColor=white"> 
     </div>
 </div>
+
 <br><br>
- 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkgyul&layout=compact)
 
 </div>
