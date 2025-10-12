@@ -15,7 +15,8 @@
 ## 🏆 Project Experience 🏆
 | 활동명 | 기간 |
 |:---|:---|
-| Beamworks 인턴 - 백엔드  | 2025.01 ~ 진행 중 |
+| Beamworks 인턴 - 백엔드  | 2025.01 ~ 진행중 |
+| HL Mando India 인턴  | 2025.07 ~ 2025.08 |
 | iM Bank (구. 대구은행) - 미래내일 일경험 iM뱅크 프로젝트 | 2024.09 ~ 2024.11 |
 | 대구를 빛내는 SW 해커톤 - 최우수상 수상 (경북대학교 IT 컴퓨터학부) | 2024.11 |
 | Silicon Valley Software Technology & AI Program, USA |  2024.07 ~ 2024.08 |
