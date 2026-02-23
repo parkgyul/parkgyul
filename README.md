@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Parkgyul%20GitHub😼&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Parkgyul%20GitHub😼&fontSize=90"/>
 
 
 ## 💻 DEV's log & Contact 💻
@@ -15,7 +15,7 @@
 ## 🏆 Project Experience 🏆
 | 활동명 | 기간 |
 |:---|:---|
-| Beamworks 인턴 - 백엔드  | 2025.01 ~ 진행중 |
+| Beamworks 인턴 - 백엔드  | 2025.01 ~ 2026.01 |
 | HL Mando India 인턴  | 2025.07 ~ 2025.08 |
 | iM Bank (구. 대구은행) - 미래내일 일경험 iM뱅크 프로젝트 | 2024.09 ~ 2024.11 |
 | 대구를 빛내는 SW 해커톤 - 최우수상 수상 (경북대학교 IT 컴퓨터학부) | 2024.11 |
@@ -39,6 +39,7 @@
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
@@ -60,11 +61,6 @@
     <div>
     <img src="https://img.shields.io/badge/docker-4479A1?style=for-the-badge&logo=docker&logoColor=white"> 
     </div>
-</div>
-
-<br><br>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkgyul&layout=compact)
-
 </div>
 
 
